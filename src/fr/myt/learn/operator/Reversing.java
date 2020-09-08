@@ -10,7 +10,6 @@ import static java.lang.String.*;
 public class Reversing {
     public static int reverseDigits(int aNumber) {
         String convertDigit = valueOf(aNumber);
-
         List<String> charactersOfDigit = new ArrayList<>();
 
         for (int i = 0; i < convertDigit.length(); i++) {
