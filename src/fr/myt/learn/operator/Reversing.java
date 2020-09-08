@@ -18,7 +18,7 @@ public class Reversing {
         }
 
         Collections.reverse(charactersOfDigit);
-       convertDigit = join("", charactersOfDigit);
+        convertDigit = join("", charactersOfDigit);
 
         return parseInt(convertDigit);
     }
