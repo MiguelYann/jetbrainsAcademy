@@ -1,3 +1,4 @@
-.idea
-rough.iml
+.idea/*
+./rough.iml
+./out/*
 *.class
