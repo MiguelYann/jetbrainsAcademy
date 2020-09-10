@@ -11,7 +11,6 @@ class DecrementTest {
 
     private final Decrement decrement = new Decrement();
 
-
     @Test
     public void should_decrement_fourNumbers() {
 

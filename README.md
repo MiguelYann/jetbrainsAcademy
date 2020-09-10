@@ -8,9 +8,11 @@ Write a program that reads a three-digit number, calculates the new number by re
 
 [Solution](./src/fr/myt/learn/operator/Reversing.java)
 
-#### Decrement
+##### Decrement
 
 Write a program that reads four numbers and decrements each of them.
 The program must output the results in the same order separated by spaces.
 
 [Solution](./src/fr/myt/learn/operator/Decrement.java)
+
+> Be aware the solution that implement for this exercisealso works but I find one issue on my Unit test. Be free to see it
