@@ -1,4 +1,4 @@
-# Jetbrains academmy
+# Jetbrains academy
 
 ## Operators 
 
