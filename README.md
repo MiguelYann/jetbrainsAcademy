@@ -24,3 +24,12 @@ Write a program that reads a string and replaces all occurrences of the letter '
 The program should print out the resulting string.
 
 [solution](./src/fr/myt/learn/strings/Replacing.java)
+
+
+##### Leap Year
+
+Find whether the given year is a leap year.
+
+Just a reminder: leap years are those years in which the year’s number is either divisible by 4, but not divisible by 100, or divisible by 400 (for example, the year 2000 is a leap year, but the year 2100 will not be a leap year).
+
+[Solution](./src/fr/myt/learn/conditional/Year.java)

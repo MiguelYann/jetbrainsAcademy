@@ -7,6 +7,8 @@ import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 class DecrementTest {
 
     private final Decrement decrement = new Decrement();
@@ -28,7 +30,7 @@ class DecrementTest {
         decrement.subtractByOne();
 
         //Then
-        Assertions.assertEquals(expected, outputStream.toString());
+        assertEquals(expected, outputStream.toString());
     }
 
 }
