@@ -33,3 +33,18 @@ Find whether the given year is a leap year.
 Just a reminder: leap years are those years in which the year’s number is either divisible by 4, but not divisible by 100, or divisible by 400 (for example, the year 2000 is a leap year, but the year 2100 will not be a leap year).
 
 [Solution](./src/fr/myt/learn/conditional/Year.java)
+
+
+##### Custom Fizzbuzz
+
+Fizz Buzz is a classic programming problem. Here is its slightly modified version.
+
+
+
+Write a program that takes the input of two integers: the beginning and the end of the interval (both numbers belong to the interval).
+
+The program should output the numbers from this interval, but if the number is divisible by 3, you should output Fizz instead of it; if the number is divisible by 5, output Buzz; and if it is divisible both by 3 and by 5, output FizzBuzz.
+
+Output each number or the word on a separate line.
+
+[Solution](./src/fr/myt/learn/loops/FizzBuzz.java)
