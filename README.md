@@ -48,3 +48,11 @@ The program should output the numbers from this interval, but if the number is d
 Output each number or the word on a separate line.
 
 [Solution](./src/fr/myt/learn/loops/FizzBuzz.java)
+
+
+##### The count of numbers divisible by N
+
+Write a program that reads a, b, n and outputs the count of numbers divisible by n in the range from a to b (a < b) inclusively.
+
+[Solution](./src/fr/myt/learn/loops/CountDivisible.java)
+
