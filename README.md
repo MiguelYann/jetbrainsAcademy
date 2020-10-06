@@ -56,3 +56,10 @@ Write a program that reads a, b, n and outputs the count of numbers divisible by
 
 [Solution](./src/fr/myt/learn/loops/CountDivisible.java)
 
+##### The product of numbers from a to b
+
+Write a program that prints the product of all integer numbers from a to b (a < b).
+Include a and exclude b from the product.
+
+[Solution](./src/fr/myt/learn/loops/IntervalMultiplicative.java)
+
