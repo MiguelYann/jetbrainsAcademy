@@ -1,5 +1,6 @@
 package fr.myt.learn.loops;
 
+
 public class IntervalMultiplicative {
 
     public static long getValueOfProductFrom(int startInterval, int endInterval) {
@@ -10,6 +11,8 @@ public class IntervalMultiplicative {
             result *= i;
         }
 
+        char a = 'e';
+        long c = a;
         return result;
     }
 }
