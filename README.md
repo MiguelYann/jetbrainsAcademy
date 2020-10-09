@@ -63,3 +63,10 @@ Include a and exclude b from the product.
 
 [Solution](./src/fr/myt/learn/loops/IntervalMultiplicative.java)
 
+##### The largest element of a sequence
+
+Given the sequence of integer numbers (which ends with the number 0). Find the largest element of the sequence.
+
+The number 0 itself is not included in the sequence but serves only as a sign of the sequence’s end.
+
+[Solution](./src/fr/myt/learn/loops/SequenceInput.java)
