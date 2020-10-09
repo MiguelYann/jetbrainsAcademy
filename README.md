@@ -6,14 +6,17 @@
 
 Write a program that reads a three-digit number, calculates the new number by reversing its digits, and outputs a new number.
 
-[Solution](./src/fr/myt/learn/operator/Reversing.java)
+- [Solution](./src/fr/myt/learn/operator/Reversing.java)  
+- [Test](./src/fr/myt/learn/operator/ReversingTest.java)
 
 ##### Decrement
 
 Write a program that reads four numbers and decrements each of them.
 The program must output the results in the same order separated by spaces.
 
-[Solution](./src/fr/myt/learn/operator/Decrement.java)
+- [Solution](./src/fr/myt/learn/operator/Decrement.java)
+- [Test](./src/fr/myt/learn/operator/DecrementTest.java)
+
 
 > Be aware the solution that implement for this exercisealso works but I find one issue on my Unit test. Be free to see it
 
@@ -26,19 +29,19 @@ The program should print out the resulting string.
 [solution](./src/fr/myt/learn/strings/Replacing.java)
 
 
+
 ##### Leap Year
 
 Find whether the given year is a leap year.
 
 Just a reminder: leap years are those years in which the year’s number is either divisible by 4, but not divisible by 100, or divisible by 400 (for example, the year 2000 is a leap year, but the year 2100 will not be a leap year).
 
-[Solution](./src/fr/myt/learn/conditional/Year.java)
+[Solution](./src/fr/myt/learn/conditional/Year.java)  
 
 
 ##### Custom Fizzbuzz
 
 Fizz Buzz is a classic programming problem. Here is its slightly modified version.
-
 
 
 Write a program that takes the input of two integers: the beginning and the end of the interval (both numbers belong to the interval).
@@ -47,14 +50,16 @@ The program should output the numbers from this interval, but if the number is d
 
 Output each number or the word on a separate line.
 
-[Solution](./src/fr/myt/learn/loops/FizzBuzz.java)
+[Solution](./src/fr/myt/learn/loops/FizzBuzz.java)  
+[Test](./src/fr/myt/learn/loops/FizzBuzzTest.java)
 
 
 ##### The count of numbers divisible by N
 
 Write a program that reads a, b, n and outputs the count of numbers divisible by n in the range from a to b (a < b) inclusively.
 
-[Solution](./src/fr/myt/learn/loops/CountDivisible.java)
+[Solution](./src/fr/myt/learn/loops/CountDivisible.java)  
+[Test](./src/fr/myt/learn/loops/CountDivisibleTest.java)
 
 ##### The product of numbers from a to b
 
@@ -69,7 +74,8 @@ Given the sequence of integer numbers (which ends with the number 0). Find the l
 
 The number 0 itself is not included in the sequence but serves only as a sign of the sequence’s end.
 
-[Solution](./src/fr/myt/learn/loops/SequenceInput.java)
+[Solution](./src/fr/myt/learn/loops/SequenceInput.java)  
+[Test](./src/fr/myt/learn/loops/SequenceInputTest.java)
 
 
 ##### Squares of natural numbers
@@ -79,14 +85,16 @@ Read an integer number N from the input and print all the squares of natural num
 * less than or equal to N,
 * in ascending order.
 
-[Solution](./src/fr/myt/learn/loops/SquareNumber.java)
+[Solution](./src/fr/myt/learn/loops/SquareNumber.java)   
+[Test](./src/fr/myt/learn/loops/SquareNumberTest.java)
 
 ##### The smallest value
 
 A user inputs a long positive number m. You need to find out what is the smallest int number n such that n! > m.
 
 
-[Solution](./src/fr/myt/learn/loops/Smallest.java)
+[Solution](./src/fr/myt/learn/loops/Smallest.java)  
+[Test](./src/fr/myt/learn/loops/Smallest.java)
 
 
 ##### Even or odd
