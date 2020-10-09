@@ -80,3 +80,11 @@ Read an integer number N from the input and print all the squares of natural num
 * in ascending order.
 
 [Solution](./src/fr/myt/learn/loops/SquareNumber.java)
+
+##### The smallest value
+
+A user inputs a long positive number m. You need to find out what is the smallest int number n such that n! > m.
+
+
+[Solution](./src/fr/myt/learn/loops/Smallest.java)
+
