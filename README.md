@@ -70,3 +70,13 @@ Given the sequence of integer numbers (which ends with the number 0). Find the l
 The number 0 itself is not included in the sequence but serves only as a sign of the sequence’s end.
 
 [Solution](./src/fr/myt/learn/loops/SequenceInput.java)
+
+
+##### Squares of natural numbers
+
+Read an integer number N from the input and print all the squares of natural numbers:
+
+* less than or equal to N,
+* in ascending order.
+
+[Solution](./src/fr/myt/learn/loops/SquareNumber.java)
