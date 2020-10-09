@@ -26,7 +26,7 @@ Write a program that reads a string and replaces all occurrences of the letter '
 
 The program should print out the resulting string.
 
-[solution](./src/fr/myt/learn/strings/Replacing.java)
+- [solution](./src/fr/myt/learn/strings/Replacing.java)
 
 
 
@@ -36,7 +36,7 @@ Find whether the given year is a leap year.
 
 Just a reminder: leap years are those years in which the year’s number is either divisible by 4, but not divisible by 100, or divisible by 400 (for example, the year 2000 is a leap year, but the year 2100 will not be a leap year).
 
-[Solution](./src/fr/myt/learn/conditional/Year.java)  
+- [Solution](./src/fr/myt/learn/conditional/Year.java)  
 
 
 ##### Custom Fizzbuzz
@@ -50,23 +50,23 @@ The program should output the numbers from this interval, but if the number is d
 
 Output each number or the word on a separate line.
 
-[Solution](./src/fr/myt/learn/loops/FizzBuzz.java)  
-[Test](./src/fr/myt/learn/loops/FizzBuzzTest.java)
+- [Solution](./src/fr/myt/learn/loops/FizzBuzz.java)  
+- [Test](./src/fr/myt/learn/loops/FizzBuzzTest.java)
 
 
 ##### The count of numbers divisible by N
 
 Write a program that reads a, b, n and outputs the count of numbers divisible by n in the range from a to b (a < b) inclusively.
 
-[Solution](./src/fr/myt/learn/loops/CountDivisible.java)  
-[Test](./src/fr/myt/learn/loops/CountDivisibleTest.java)
+- [Solution](./src/fr/myt/learn/loops/CountDivisible.java)  
+- [Test](./src/fr/myt/learn/loops/CountDivisibleTest.java)
 
 ##### The product of numbers from a to b
 
 Write a program that prints the product of all integer numbers from a to b (a < b).
 Include a and exclude b from the product.
 
-[Solution](./src/fr/myt/learn/loops/IntervalMultiplicative.java)
+- [Solution](./src/fr/myt/learn/loops/IntervalMultiplicative.java)
 
 ##### The largest element of a sequence
 
@@ -74,8 +74,8 @@ Given the sequence of integer numbers (which ends with the number 0). Find the l
 
 The number 0 itself is not included in the sequence but serves only as a sign of the sequence’s end.
 
-[Solution](./src/fr/myt/learn/loops/SequenceInput.java)  
-[Test](./src/fr/myt/learn/loops/SequenceInputTest.java)
+- [Solution](./src/fr/myt/learn/loops/SequenceInput.java)  
+- [Test](./src/fr/myt/learn/loops/SequenceInputTest.java)
 
 
 ##### Squares of natural numbers
@@ -85,16 +85,16 @@ Read an integer number N from the input and print all the squares of natural num
 * less than or equal to N,
 * in ascending order.
 
-[Solution](./src/fr/myt/learn/loops/SquareNumber.java)   
-[Test](./src/fr/myt/learn/loops/SquareNumberTest.java)
+- [Solution](./src/fr/myt/learn/loops/SquareNumber.java)   
+- [Test](./src/fr/myt/learn/loops/SquareNumberTest.java)
 
 ##### The smallest value
 
 A user inputs a long positive number m. You need to find out what is the smallest int number n such that n! > m.
 
 
-[Solution](./src/fr/myt/learn/loops/Smallest.java)  
-[Test](./src/fr/myt/learn/loops/Smallest.java)
+- [Solution](./src/fr/myt/learn/loops/Smallest.java)  
+- [Test](./src/fr/myt/learn/loops/Smallest.java)
 
 
 ##### Even or odd
@@ -111,5 +111,5 @@ The sequence of words "even" and "odd". Each word in a new line.
 
 Output the result right after the number is entered. Then input the next one. There's no need to store the sequence.
 
-[Solution](./src/fr/myt/learn/branching/Numbers.java)
+- [Solution](./src/fr/myt/learn/branching/Numbers.java)
 
