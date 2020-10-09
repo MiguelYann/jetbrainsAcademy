@@ -6,7 +6,7 @@ import static java.lang.Integer.*;
 
 public class SequenceInput {
 
-    public void getMaximumOf() {
+    public void printMaximumOfSequenceNumbers() {
 
         Scanner scanner = new Scanner(System.in);
         int maximum = 0;

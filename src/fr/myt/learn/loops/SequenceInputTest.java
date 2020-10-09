@@ -34,7 +34,7 @@ class SequenceInputTest {
 
 
         //when
-        sequenceInput.getMaximumOf();
+        sequenceInput.printMaximumOfSequenceNumbers();
 
 
         //then
