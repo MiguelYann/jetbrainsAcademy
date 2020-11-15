@@ -30,8 +30,7 @@ class SortIntelligent {
                 minimum = list.get(i);
             }
         }
-        System.out.println("maximun" + maximum);
-        System.out.println("Min" + minimum);
+
         int lastIndex = list.size() - 1;
         Integer lastElement = list.get(lastIndex);
         boolean ascendantOrder = list.get(0) == minimum && (lastElement == maximum);
