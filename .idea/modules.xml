@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/rough.iml" filepath="$PROJECT_DIR$/rough.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jetbrainsAcademy.iml" filepath="$PROJECT_DIR$/.idea/jetbrainsAcademy.iml" />
     </modules>
   </component>
 </project>
